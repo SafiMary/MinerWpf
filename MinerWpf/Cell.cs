@@ -45,9 +45,6 @@ namespace MinerWpf
             this.myButton.Content = _content;
             this.myButton.Click += MyButton_Click;
             this.print_score = print_score;
-
-
-
         }
         private void setReverse(string _reverse)
         {
