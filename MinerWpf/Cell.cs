@@ -51,7 +51,7 @@ namespace MinerWpf
             this.Reverse = _reverse;
         }
 
-
+        
         public void MyButton_Click(object sender, RoutedEventArgs e)
         { if(!isMine) 
             {
